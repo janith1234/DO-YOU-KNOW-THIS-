@@ -39,7 +39,6 @@ Relative - the element is positioned relative to its normal position.
 5. What is the use of opacity in CSS?
 
 Answer: 
-
 When using the opacity property to add transparency to the background of an element
 
 6. Which is the programming language used in the React Native Framework?
